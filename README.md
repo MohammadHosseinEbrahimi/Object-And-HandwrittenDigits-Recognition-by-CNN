@@ -13,12 +13,17 @@ https://www.cs.toronto.edu/~kriz/cifar.html
 
 **DATASET PREPROCESSING**
 
-Handwritten digits: The data is laready preprocessed. 
+Handwritten digits: The data is already preprocessed. 
 
 Object detector: We need to normalize the pixel values. 
 Other preprocesses are already done.
 
 **CNN model architecture** 
+
+Handwritten digits: Due to simplicity of this task, we use a model architecture including a convolutional layer with small 3×3 filters, default padding='valid', (no padding so the input image gets fully covered), default strides=(1, 1), i.e., filter step shifts over the input matrix, followed by a max pooling layer (to reduce the computational cost) without drop out layer (no regularization). 
+The number of filters can be set arbitrarily to 32.
+Each layer uses use the ReLU activation function.
+
 
 Object detector: model architecture includes 3 block of convolutional layers with small 3×3 filters followed by a max pooling layer with drop out layer. 
 Drop out layer helps to avoid overfitting.
