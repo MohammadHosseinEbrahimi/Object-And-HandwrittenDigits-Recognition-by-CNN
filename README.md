@@ -36,3 +36,10 @@ To fit the model, we use 25 epoches to reach to the optimized values.
 model architecture below:
 
 ![image](https://user-images.githubusercontent.com/109335350/186163100-7e0dc603-151d-446d-8545-5aeb402e1d02.png)
+
+**evaluting the model** 
+
+
+
+
+**A random sample to check the model performance**
