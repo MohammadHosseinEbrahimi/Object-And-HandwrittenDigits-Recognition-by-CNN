@@ -34,4 +34,5 @@ For fully connected layers, first we flatten (2D to a vector) then we use kernel
 For output layer, we have 10 output because we have 10 class to predict
 To fit the model, we use 25 epoches to reach to the optimized values.
 model architecture below:
+
 ![image](https://user-images.githubusercontent.com/109335350/186163100-7e0dc603-151d-446d-8545-5aeb402e1d02.png)
