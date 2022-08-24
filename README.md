@@ -39,8 +39,19 @@ model architecture below:
 
 **evaluting the model** 
 
+
+
+Object detector: The graph below shows the model has been trained well enough. The accuracy on train set reached a plateau.
+The accuracy on train set was 0.94, and on test set was 0.81.
+
 ![image](https://user-images.githubusercontent.com/109335350/186378308-6eb43a5d-04b7-4542-b624-a8a5c7729b17.png)
 
 
 
 **A random sample to check the model performance**
+
+
+Object detector: 
+
+![image](https://user-images.githubusercontent.com/109335350/186379645-cb0cf362-348b-49d5-bd8c-0c617dfb36ca.png)
+
