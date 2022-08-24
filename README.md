@@ -1,7 +1,7 @@
 # Object and Handwritten Digits Recognition by Convolutional Neural Network
 Deep learning convolutional neural network for recognition of CIFAR-10 image dataset and handwritten digits (UCI datasets)
 
-**DATASET**
+**Dataset**
 
 Handwritten digits: The dataset is comprised of 1,797 8×8 black&white photographs of handwritten digits from 0-9.
 The data is from UCI ML hand-written digits datasets 
@@ -20,7 +20,7 @@ Object detector: The dataset is comprised of 60,000 32×32 pixel color photograp
 Data is from  Canadian Institute For Advanced Research: 
 https://www.cs.toronto.edu/~kriz/cifar.html
 
-**DATASET PREPROCESSING**
+**Dataset Ppreprocessing**
 
 Handwritten digits: The data is already preprocessed. 
 
@@ -48,7 +48,7 @@ model architecture below:
 
 ![image](https://user-images.githubusercontent.com/109335350/186163100-7e0dc603-151d-446d-8545-5aeb402e1d02.png)
 
-**evaluting the model** 
+**Evaluting the model** 
 
 Handwritten digits: The graph below shows the model has been trained well enough. The accuracy on train set reached a plateau.
 The accuracy on train set was 0.99, and on test set was 0.98.
