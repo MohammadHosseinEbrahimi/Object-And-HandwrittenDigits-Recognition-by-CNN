@@ -7,7 +7,16 @@ Handwritten digits: The dataset is comprised of 1,797 8×8 black&white photograp
 The data is from UCI ML hand-written digits datasets 
 https://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits
 
-Object detector: The dataset is comprised of 60,000 32×32 pixel color photographs of objects from 10 classes. 
+Object detector: The dataset is comprised of 60,000 32×32 pixel color photographs of objects from 10 classes. 0: airplane
+1: automobile
+2: bird
+3: cat
+4: deer
+5: dog
+6: frog
+7: horse
+8: ship
+9: truck
 Data is from  Canadian Institute For Advanced Research: 
 https://www.cs.toronto.edu/~kriz/cifar.html
 
