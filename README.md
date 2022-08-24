@@ -31,7 +31,7 @@ Other preprocesses are already done.
 
 Handwritten digits: Due to simplicity of this task, we use a model architecture including a convolutional layer with small 3×3 filters, default padding='valid', (no padding so the input image gets fully covered), default strides=(1, 1), i.e., filter step shifts over the input matrix, followed by a max pooling layer (to reduce the computational cost) without drop out layer (no regularization). 
 The number of filters can be set arbitrarily to 32.
-Each layer uses use the ReLU activation function.
+Each layer uses the ReLU activation function.
 
 ![image](https://user-images.githubusercontent.com/109335350/186381368-f4e9951a-303a-4ad4-9bb0-f90869b2cea7.png)
 
