@@ -40,10 +40,10 @@ Object detector: model architecture includes 3 block of convolutional layers wit
 Drop out layer helps to avoid overfitting.
 The number of filters are set arbitrarily to 32, 64 and 128. 
 Padding 'SAME' ensures that filter is applied to all the elements of input similarly when filter does not perfectly fit the input image.
-Each layer uses use the ReLU activation function.
+Each layer uses the ReLU activation function.
 For fully connected layers, first we flatten (2D to a vector) then we use kernel_regularizer to avoid overfitting.
-For output layer, we have 10 output because we have 10 class to predict
-To fit the model, we use 25 epoches to reach to the optimized values.
+For output layer, we have 10 output because we have 10 class to predict.
+To fit the model, we use 100 epoches to reach to the optimized values.
 model architecture below:
 
 ![image](https://user-images.githubusercontent.com/109335350/186163100-7e0dc603-151d-446d-8545-5aeb402e1d02.png)
