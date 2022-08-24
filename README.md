@@ -39,6 +39,7 @@ model architecture below:
 
 **evaluting the model** 
 
+![image](https://user-images.githubusercontent.com/109335350/186378308-6eb43a5d-04b7-4542-b624-a8a5c7729b17.png)
 
 
 
