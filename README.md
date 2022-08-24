@@ -57,10 +57,9 @@ The accuracy on train set was 0.99, and on test set was 0.98.
 
 
 Object detector: The graph below shows the model has been trained well enough. The accuracy on train set reached a plateau.
-The accuracy on train set was 0.88, and on test set was 0.81.
+The accuracy on train set was 0.92, and on test set was 0.83.
 
-![image](https://user-images.githubusercontent.com/109335350/186378308-6eb43a5d-04b7-4542-b624-a8a5c7729b17.png)
-
+![image](https://user-images.githubusercontent.com/109335350/186420258-7f461d64-dc5c-4956-9a20-c2521ad339ad.png)
 
 
 **A random sample to check the model performance**
