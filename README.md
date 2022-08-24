@@ -24,6 +24,8 @@ Handwritten digits: Due to simplicity of this task, we use a model architecture 
 The number of filters can be set arbitrarily to 32.
 Each layer uses use the ReLU activation function.
 
+![image](https://user-images.githubusercontent.com/109335350/186381368-f4e9951a-303a-4ad4-9bb0-f90869b2cea7.png)
+
 
 Object detector: model architecture includes 3 block of convolutional layers with small 3×3 filters followed by a max pooling layer with drop out layer. 
 Drop out layer helps to avoid overfitting.
