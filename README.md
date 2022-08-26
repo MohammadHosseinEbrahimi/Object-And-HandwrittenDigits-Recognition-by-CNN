@@ -20,7 +20,7 @@ Object detector: The dataset is comprised of 60,000 32×32 pixel color photograp
 Data is from  Canadian Institute For Advanced Research: 
 https://www.cs.toronto.edu/~kriz/cifar.html
 
-**Dataset Ppreprocessing**
+**Dataset Preprocessing**
 
 Handwritten digits: The data is already preprocessed. 
 
