@@ -48,7 +48,7 @@ model architecture below:
 
 ![image](https://user-images.githubusercontent.com/109335350/186163100-7e0dc603-151d-446d-8545-5aeb402e1d02.png)
 
-**Evaluting the model** 
+**Evaluating the model** 
 
 Handwritten digits: The graph below shows the model has been trained well enough. The accuracy on train set reached a plateau.
 The accuracy on train set was 0.99, and on test set was 0.98.
